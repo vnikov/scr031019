@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+MyProject.egg-info/PKG-INFO
+MyProject.egg-info/SOURCES.txt
+MyProject.egg-info/dependency_links.txt
+MyProject.egg-info/entry_points.txt
+MyProject.egg-info/requires.txt
+MyProject.egg-info/top_level.txt
+mypackage/__init__.py
+mypackage/mymodule.py
+mypackage/template.txt
